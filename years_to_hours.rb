@@ -10,7 +10,7 @@ decades = gets.chomp
 decades = decades.to_i
 minutes = decades*60*24*365
 minutes = minutes.to_s
-puts "That;s #{minutes} minutes."
+puts "That's #{minutes} minutes."
 puts "Enter your age."
 age = gets.chomp
 age=age.to_i
